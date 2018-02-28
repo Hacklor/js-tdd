@@ -1,3 +1,26 @@
+# Episode 5; Performance
+
+In [episode4][episode4] we have build a calculator object using the new EcmaScript class syntax. But
+there is a reason we have chosen to go in the direction of an object, even though there are many
+ways we build a calculator 'object' in Javascript. In this episode we are going to investigate the
+different possibilities.
+
+## Using our tests
+
+We are going to use our previous tests as a guide, but will also add tests to see what the
+performance is of different implementations. We test the performance by keeping track how many times
+the `add` function is declared.
+
+
+
+
+
+
+> Todo:
+Question: What will happen each time the `makeAddFunction` is called? What impact will this have on
+the memory footprint?
+
+
 > This episode is still **Work in progress**
 
 # Building a calculator, episode 3
